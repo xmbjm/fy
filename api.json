@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "assets://pg.jar",
+    "spider": "./pg.jar",
     "wallpaper": "自用测试 禁止传播",
     "logo": "https://4708.kstore.space/logo.gif",
     "sites": [
